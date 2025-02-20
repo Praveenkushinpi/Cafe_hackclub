@@ -1,5 +1,9 @@
 # Cafe_hackclub
 this repository contains everything I made during the #cafe like tried some new things like pixel art and some website 
+start with the realxig cafe
+![Image](https://github.com/user-attachments/assets/c36a5a51-1380-402d-89dd-c54b518d1af8)
+
+![Image](https://github.com/user-attachments/assets/c76c2304-d8ab-4501-9831-ab31adf7be8b)
 Candy POP 
 start menu 
 ![Image](https://github.com/user-attachments/assets/7e9e199c-6b55-4423-b3a0-3158d4b82ea0)
